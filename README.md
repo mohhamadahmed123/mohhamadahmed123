@@ -39,22 +39,11 @@ I’m an **Adobe Commerce Expert Certified Developer** with **5+ years** of expe
 
 ---
 
-## 🛍️ Adobe Commerce Marketplace Extensions
-I have developed and published several **Magento 2 extensions** that are live on the **Adobe Commerce Marketplace**:
-
-🔹 [**Print Order Extension**](https://commercemarketplace.adobe.com/codecrafters-module-printorder.html) – Enables customers and administrators to print order details directly from the Magento admin panel or customer account.
-
-🔹 [**Log Rotation Extension**](https://commercemarketplace.adobe.com/codecrafters-module-logrotation.html) – Automatically rotates and manages Magento 2 log files to prevent excessive disk usage.
-
-More extensions coming soon... 🚀
-
----
-
 ## 🤝 Let's Connect!
 Feel free to connect with me for collaboration, project discussions, or just to say hi! 👇
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naseer-aslam-magento-developer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohhamadahmed123)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohhamadahmed123456@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohhamadahmed123@gmail.com)
 
 💡 **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
